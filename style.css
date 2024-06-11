@@ -1,0 +1,6 @@
+.left-nav {
+    position: fixed;
+    height: 100vh;
+    left: -30%;
+    background-color: blue;
+}
